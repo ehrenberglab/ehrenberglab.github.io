@@ -1,0 +1,171 @@
+/* Global settings */
+body{
+	font-family: 'BloggerSansLight';
+}
+a{
+	text-decoration: none;
+	color: rgb(161, 191, 36);
+}
+a:hover{
+	text-decoration: underline;
+}
+div.sidenav{
+	height: 100%;
+	width: 175px;
+	position: fixed;
+	z-index: 1;
+	top: 0; /* Stay at the top */
+	left: 0;
+	overflow-x: hidden;
+	padding-top: 20px;
+	padding-left: 10px;
+	display: flex;
+	flex-direction: column;
+	border-right: 1px solid rgb(100,100,100);
+}
+
+div.sidenav div.list{
+	flex:1;
+}
+
+div.sidenav ul{
+	list-style-type: none;
+	padding: 0;
+    margin: 0;
+}
+
+div.sidenav li{
+	font-size: 25px;
+	margin: 20px 0;
+}
+
+div.sidenav div.page_foot{
+	margin-bottom: 40px;
+	font-size: 75%;
+}
+
+div.main{
+	margin-left: 175px; /* Same as the width of the sidebar */
+	padding: 0px 10px;
+	font-size: 18px;
+	text-align: center;
+}
+
+h1{
+	font-size: 35px;
+	text-align:center;
+}
+
+h2{
+	font-size: 35px;
+}
+
+img.header{
+	width: 100%;
+	max-width: 1000px;
+	}
+
+div.header{
+	padding: 10px 10px 10px 10px;
+}
+
+p.caption{
+	font-size: 75%;
+}
+
+div.content{
+	text-align: left;
+}
+
+/* Page: Publications */
+
+p.publications{
+	text-indent: -1em;
+	padding-left: 1em;
+	font-size: 90%;
+	margin-left: 5px;
+	}
+
+span.year{
+	font-size:125%;
+}
+
+/* Page: Resources */
+div.tiles{
+	width: 300px;
+	float:left;
+	display: block;
+	padding:  10px 10px 10px 10px;
+}
+
+img.tiles{
+	width:100%;
+	border: 1px solid rgb(161, 191, 36);
+}
+
+/* Pages: People */
+
+img.mugshot{
+	width: 96px;
+}
+
+a.external_link{
+	font-size: 75%;
+}
+
+table.members tr>td{
+	padding-bottom: 1em;
+	vertical-align: top;
+}
+
+/* Pages: Research */
+table.projects tr>td{
+	padding-bottom: 1em;
+	padding-left: 1em;
+	border-bottom: 1px solid rgb(100,100,100);
+}
+
+td.blurb{
+	vertical-align: top;
+}
+
+td.pic{
+	vertical-align:center;
+}
+
+table.projects tr:last-child>td{
+    border-bottom: none;
+}
+
+table.projects{
+	border-spacing: 0px 0px
+}
+
+img.projects{
+	width: 175px;
+}
+
+
+/* Pages: MOPGA*/
+
+div.nav {
+	margin: auto;
+	text-align: center;
+}
+
+ul.nav{
+	list-style-type: none;
+	padding-left: 1em;
+	padding-top: 0em;
+	font-size: 14px;
+	overflow: hidden;
+	display: inline-block;
+}
+
+ul.nav li{
+	float:left;
+	padding-right: 4em;
+	text-align: center;
+	height: 45px;
+	font-size: 120%;
+}
