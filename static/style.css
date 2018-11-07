@@ -164,7 +164,7 @@ ul.nav{
 
 ul.nav li{
 	float:left;
-	padding-right: 4em;
+	padding: 0em 2em 0em 2em;
 	text-align: center;
 	height: 45px;
 	font-size: 120%;
