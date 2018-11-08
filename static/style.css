@@ -170,6 +170,16 @@ ul.nav li{
 	font-size: 120%;
 }
 
+td.Date{
+	vertical-align:text-top;
+	width:10%;
+}
+
+td.Log{
+	padding-left: 2em;
+	text-indent: -1em;
+}
+
 /* Responsive design */
 
 @media screen and (max-width: 500px) {
