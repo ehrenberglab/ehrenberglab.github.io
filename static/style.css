@@ -145,6 +145,21 @@ img.projects{
 	width: 175px;
 }
 
+ul.projects {
+	list-style: none;
+	margin-left: 0;
+	padding-left: 0;
+}
+
+li.projects {
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
+li.projects:before {
+	content: ">";
+	padding-right: 5px;
+}
 
 /* Pages: MOPGA*/
 
