@@ -206,6 +206,14 @@ img.midpics{
 	padding-right: auto;
 }
 
+table.contact{
+	margin: 1em;
+}
+
+td.header{
+	font-weight: bold;
+}
+
 /* Responsive design */
 
 @media screen and (max-width: 500px) {
