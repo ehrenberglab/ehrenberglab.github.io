@@ -238,6 +238,11 @@ span.tooltip:hover .tooltiptext{
 	visibility: visible;
 }
 
+object.cv{
+	width: 100%;
+	height: 900px;
+}
+
 /* Responsive design */
 
 @media screen and (max-width: 500px) {
