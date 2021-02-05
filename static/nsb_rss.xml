@@ -4,7 +4,7 @@
 <title>NSB database</title>
 <link>https://nsb-mfn-berlin.de/</link>
 <description>Latest Updates from the Database</description>
-<item><title>New GPTS</tile><link>http://nsb-mfn-berlin.de/searcha</link><pubDate>2021-02-03</pubDate><description>Added the new GPTS from the <a href="https://www.sciencedirect.com/book/9780128243602/geologic-time-scale-2020">Geological Time Scale 2020</a> to the possible mapping choices.</description></item>
+<item><title>New GPTS</title><link>http://nsb-mfn-berlin.de/searcha</link><pubDate>2021-02-03</pubDate><description>Added the new GPTS from the <a href="https://www.sciencedirect.com/book/9780128243602/geologic-time-scale-2020">Geological Time Scale 2020</a> to the possible mapping choices.</description></item>
 <item><title>New publication</title><link>http://nsb-mfn-berlin.de/about</link><pubDate>2020-03-20</pubDate><description>New publication in Palaeontologia Electronica describing NSB. Please cite this new publication when referring to the current implementation of Neptune.</description></item>
 <item><title>2019-11-12</title><link>http://nsb-mfn-berlin.de/change</link><pubDate>2019-11-12</pubDate><description>Remodelled the frontpages, and created a page to display the publications. They are also available as a bibtex file as of now.</description></item>
 <item><title>2019-03-29</title><link>http://nsb-mfn-berlin.de/change</link><pubDate>2019-03-29</pubDate><description>Changed completely the site aesthetic, and added a splash page with the database history and whatnots.</description></item>
