@@ -283,7 +283,7 @@ object.cv{
 	h1,h2{
 		font-size: 25px;
 	}
-	div.sidenav div.page_foot a img{
+	div.sidenav div.page_foot a img[width="150"]{
 		width: 90px;
 	}
 }
